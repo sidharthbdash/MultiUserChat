@@ -1,0 +1,12 @@
+commands:
+        login <user> <password>
+        logoff
+        msg <user> text....
+        e.g. "msg nippy hello world" <--sent
+             jim:"msg jenar hello world" <--rec
+
+
+        #topic <-- chatroom
+        join #topic
+        send: msg #topic body...17.00
+        receive: msg #topic <login> body....
